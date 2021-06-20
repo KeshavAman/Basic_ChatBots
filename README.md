@@ -1,0 +1,2 @@
+# Basic_ChatBots
+Chatbots, also called chatterbots, is a form of artificial intelligence (AI) used in messaging apps. This tool helps add convenience for customers—they are automated programs that interact with customers like a human would and cost little to nothing to engage with. This is code for basic chatbot with very less use of AI. It is made by using the python and it tells us about COVID 19 wth taking references from the wikipedia
